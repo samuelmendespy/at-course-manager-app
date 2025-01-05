@@ -1,0 +1,4 @@
+# API Requests from /listar.php to /list
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteRule ^([^\.]+)$ $1.php [NC,L]
