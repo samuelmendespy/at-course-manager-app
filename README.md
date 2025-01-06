@@ -30,14 +30,13 @@ A aplicação é orquestrada com o **Docker Compose**, permitindo fácil inicial
 
 ### 1. Pré-requisitos
 
-- Docker
 - Docker Compose
 
 ### 2. Rodando com Docker Compose
 
 1. Clone o repositório:
    ```bash
-   git clone https://link-do-repositorio.git
+   git clone https://github.com/samuelmendespy/at-course-manager-app.git
    cd at-course-manager-app
    ```
 
